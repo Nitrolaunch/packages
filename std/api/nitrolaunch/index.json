@@ -1,6 +1,6 @@
 {
 	"metadata": {
-		"name": "Nitrolaunch Standard Package Library",
+		"name": "Standard",
 		"description": "Official standard packages for Nitrolaunch",
 		"nitro_version": "0.26.0"
 	},
