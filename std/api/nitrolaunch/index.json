@@ -1,8 +1,8 @@
 {
 	"metadata": {
-		"name": "MCVM Standard Package Library",
-		"description": "Official standard packages for MCVM",
-		"mcvm_version": "0.24.0"
+		"name": "Nitrolaunch Standard Package Library",
+		"description": "Official standard packages for Nitrolaunch",
+		"nitro_version": "0.26.0"
 	},
 	"packages": {
 		"create": {
